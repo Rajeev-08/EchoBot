@@ -10,7 +10,7 @@ EchoBot is a command-line chatbot that helps users with Linux commands, scriptin
 - 📝 Maintains chat history for contextual responses.
 
 ## Installation
-1. Install dependencies:
+1. Install dependencies
 
 2. Download an open-source Llama model (e.g., Mistral, Llama 2) and place it in `models/`.
 
