@@ -22,6 +22,6 @@ EchoBot is a command-line chatbot that helps users with Linux commands, scriptin
 - Execute commands safely within the terminal.
 - Type `exit` to quit.
 
-## Example
+
 
 
